@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_01_下拉刷新ListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_listview_headview_red_arrow.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_01_下拉刷新ListView\\src\\main\\res\\drawable-hdpi\\common_listview_headview_red_arrow.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\PullToRefreshListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\PullToRefreshListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_01_下拉刷新ListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\_01_下拉刷新ListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\PullToRefreshListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_listview_headview_red_arrow.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\PullToRefreshListView\\src\\main\\res\\drawable-hdpi\\common_listview_headview_red_arrow.png"
+    }
+]
