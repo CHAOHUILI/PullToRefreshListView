@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\parallax_img.jpg",
+        "source": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\src\\main\\res\\drawable-hdpi\\parallax_img.jpg"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\parallax_img.jpg",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\src\\main\\res\\drawable-hdpi\\parallax_img.jpg"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\low.jpg",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\src\\main\\res\\drawable-hdpi\\low.jpg"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\parallax.jpg",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\src\\main\\res\\drawable-hdpi\\parallax.jpg"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\parallax_img.jpg",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\src\\main\\res\\drawable-hdpi\\parallax_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

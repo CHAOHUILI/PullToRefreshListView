@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\头部视差74\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\HeadImageOnListView\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\john\\Desktop\\ContactsManager\\HeadImageOnListView\\src\\main\\res\\menu\\main.xml"
+    }
+]
